@@ -7,7 +7,7 @@ You can use it with Node.js or as a browser polyfill for
 
 ## Install
 
-    npm install @Frando/eventsource
+    npm install @frando/eventsource
 
 ## Example
 

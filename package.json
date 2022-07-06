@@ -1,7 +1,8 @@
 {
-  "name": "@Frando/eventsource",
+  "name": "@frando/eventsource",
   "version": "1.0.7",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
+  "public": true,
   "keywords": [
     "eventsource",
     "http",
