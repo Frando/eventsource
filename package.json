@@ -1,6 +1,6 @@
 {
   "name": "@frando/eventsource",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
   "public": true,
   "keywords": [
@@ -24,6 +24,7 @@
   },
   "main": "./lib/eventsource",
   "browser": "browser.js",
+  "types": "./types/index.d.ts",
   "license": "MIT",
   "licenses": [
     {
